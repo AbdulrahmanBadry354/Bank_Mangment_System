@@ -1,2 +1,2 @@
-# Library_Mangment_System
-Library_Mangment_System_Project
+# Bank_Mangment_System
+Bank_Mangment_System_Project
